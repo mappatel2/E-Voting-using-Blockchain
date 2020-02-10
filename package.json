@@ -1,0 +1,17 @@
+{
+  "name": "e-voting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.9.0",
+    "mocha": "^7.0.1",
+    "solc": "^0.4.25",
+    "web3": "^1.2.6"
+  }
+}
